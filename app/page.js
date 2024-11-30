@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logoss from "./logoss.jpg";
+import logoss from "./logoss.png";
 
 export default function Home() {
   return (
