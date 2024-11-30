@@ -14,7 +14,7 @@ export default function Home() {
 
     {/* Content container */}
     <div className="relative z-10 container mx-auto px-12">
-      <div className="flex items-center justify-center "> 
+      <div className="flex items-center justify-center pt-4 "> 
         <Image src={logoss} alt="Logo" width={100} height={100} />
      </div> <h1 className="text-4xl pt-8   font-mono font-bold text-center justify-center flex text-white mb-8">
          BetaAI
