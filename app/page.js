@@ -41,7 +41,7 @@ export default function Home() {
            <p>More attitude than your average neural network)</p>  
             </p>
             <p>Processing power measured in coolness per second</p>
-            <p className="font-mono pt-4 break-words">CA : <a></a></p>
+            <p className="font-mono pt-4 break-words">CA : <a>0xe1C5c82e040B1e82aea9786b22b4DC08ebb43a80</a></p>
 
 
             {/* Continue with the rest of your content... */}
