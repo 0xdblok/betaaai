@@ -63,7 +63,7 @@ export default function Home() {
       </div>
 
       
-<div className="flex justify-center  pt-4"> <a href="https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xa30d1d5b23809f723ba2bb9376b050f6313981a5&value=0.026383404192031892&field=input" className="inline-flex  bg-white hover:bg-[#F8B565] hover:focus e items-center px-6 py-3 font-medium text-black backdrop-blur-sm  rounded-lg transition-colors ">
+<div className="flex justify-center  pt-4"> <a href="https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe1c5c82e040b1e82aea9786b22b4dc08ebb43a80" className="inline-flex  bg-white hover:bg-[#F8B565] hover:focus e items-center px-6 py-3 font-medium text-black backdrop-blur-sm  rounded-lg transition-colors ">
           Buy on Uniswap
         </a></div>
      
